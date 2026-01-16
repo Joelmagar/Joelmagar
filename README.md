@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Joelmagar
 - 👀 I’m interested in Coding.
-- 💞️ I’m looking to collaborate on React Project.
+- 💞️ I’m looking to collaborate on React and Nextjs Projects.
 - 📫 How to reach me ?? Well forget it 👀
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Nothig fun anymmore.
